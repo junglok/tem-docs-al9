@@ -1,0 +1,5 @@
+site_name: GSDC TEM
+site_url: !ENV READTHEDOCS_CANONICAL_URL
+
+extra_javascript:
+  - javascripts/readthedocs.js
